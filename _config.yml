@@ -1,6 +1,6 @@
 title: Arnav's Blog
 email: 2005arnavmehta2005@gmail.com
-base_url: "Blog"
+base_url: "/Arnav_Mehta"
 url: ""
 plugins:
   - jekyll-bookshop
